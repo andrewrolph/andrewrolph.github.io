@@ -1,12 +1,20 @@
 ## Welcome to my website!
 
+Hi! I'm a theoretical physicist with interests in string theory, quantum information, and everything in between. This website is to introduce myself and my work.
+
+<!---
+Use this to add comments
+-->
+
+Me:
 <img src="https://github.com/andrewrolph/andrewrolph.github.io/blob/main/20200609_182752_cropped.jpg" alt="drawing" width="300"/>
 
 <!---
 ![Image](https://github.com/andrewrolph/andrewrolph.github.io/blob/main/20200609_182752_cropped.jpg)
 -->
-
 Fig 1: Not just a pretty face.
+
+
 
 ## Welcome to GitHub Pages
 
