@@ -17,6 +17,11 @@ Fig 1: Not just a pretty face.
 
 Quantum bit threads @ Eurostrings 2022:
 
+<!---
+THIS DIDN'T WORK BECAUSE MP4 FILE TOO LARGE
+<video src="https://github.com/andrewrolph/andrewrolph.github.io/blob/main/Eurostrings2022GongShow.mp4" controls="controls" style="max-width: 730px;">
+</video>
+-->
 
 
 
