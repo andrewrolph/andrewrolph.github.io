@@ -18,9 +18,9 @@
 
 Talk (2022): _**Island Mirages**_
 <br>
-Delta ITP - Leiden University
+Delta ITP - Leiden University (in-person)
 
-Talk (2021): _**In-situ measurements of water vapor isotopologues in the UT/LS**_
+Talk (2021): _**Talk**_
 <br>
-International Partnership for Cirrus Studies, online
+Utrecht University (online)
 
