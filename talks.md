@@ -16,9 +16,9 @@
 <span style="color:#30c210"><font size="16"><b>Talks</b></font></span>
 <br>
 
-Talk (2022): _**Why aircraft measurements are important for climate science**_
+Talk (2022): _**Island Mirages**_
 <br>
-Energy Policy Institute at the University of Chicago
+Delta ITP - Leiden University
 
 Talk (2021): _**In-situ measurements of water vapor isotopologues in the UT/LS**_
 <br>
