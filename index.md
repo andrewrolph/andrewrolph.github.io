@@ -24,9 +24,6 @@ I'm a theoretical physicist. Currently, I am a postdoc at the Universiteit van A
 
 
 
-You can find my CV [here]().
-
-
 <span style="color:#0e1f6b">**Let's talk!**</span>
 <br>
 
