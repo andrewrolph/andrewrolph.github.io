@@ -19,7 +19,7 @@
 I'm a theoretical physicist. Currently, I am a postdoc at the Universiteit van Amsterdam (University of Amsterdam). 
 
 <div align='center'>
-   <img src="photos/IMG_4379.png" alt="Carly" width=150px height=auto><br/>
+   <img src="pics/andrew.jpg" alt="Andrew" width=150px height=auto><br/>
 </div>
 
 
