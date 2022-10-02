@@ -1,4 +1,4 @@
-theme: pages-themes/cayman@v0.2.0
+theme: cayman
 title: Andrew Rolph's homepage
 description: Read about my research
 remote_theme: pages-themes/cayman@v0.2.0
