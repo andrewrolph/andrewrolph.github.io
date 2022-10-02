@@ -25,4 +25,6 @@
 </div>
 
 **Entaglement contours**: 
+
+
 **Bit threads**:
