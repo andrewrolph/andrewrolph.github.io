@@ -1,3 +1,7 @@
+<div align='center'>
+   <img src="pics/andrew.jpg" alt="Andrew" width=300px height=auto><br/>
+</div>
+
 
 <div class="topnav" align=center>
   <a href="https://andrewrolph.github.io">
