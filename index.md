@@ -17,14 +17,11 @@
 </div>
          
 
-<span style="color:#0e1f6b"><font size="16"><b>Dr. Andrew Rolph</b></font></span>
-<br>
-
 I'm a theoretical physicist. Currently, I am a postdoc at the Universiteit van Amsterdam (University of Amsterdam). <br/>
 
 Below, watch me give a short presentation at Eurostrings 2022.
 
-[<img alt="Gong Show" width="300px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
+[<img alt="Gong Show" width="500px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
 
 
 <span style="color:#0e1f6b">**Let's talk!**</span>
