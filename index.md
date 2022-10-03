@@ -23,9 +23,10 @@
 I'm a theoretical physicist. Currently, I am a postdoc at the Universiteit van Amsterdam (University of Amsterdam). 
 
 
-<div align='center'>
+
 [<img alt="Gong Show" width="300px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
-</div>
+
+
 <span style="color:#0e1f6b">**Let's talk!**</span>
 <br>
 
