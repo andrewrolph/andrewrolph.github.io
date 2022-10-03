@@ -1,5 +1,5 @@
 # andrewrolph.github.io
 
----
-image: pics/andrew.jpg
----
+
+#image: pics/andrew.jpg
+
