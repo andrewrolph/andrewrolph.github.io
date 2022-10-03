@@ -2,10 +2,7 @@ theme: jekyll-theme-cayman
 title: Andrew Rolph
 description: Postdoc researcher in holography
 #image: pics/andrew.jpg
-logo:
-    width: 165
-    height: 60
-    url: pics/andrew.jpg
+logo: andrew.jpg
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
