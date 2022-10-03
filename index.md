@@ -10,10 +10,6 @@
   <a href="https://andrewrolph.github.io/projects.html">
     <button style="height:60px;width:100px;color:#0f5f6b; font-weight:bold; border-color:#0f5f6b; background-color:White">Research</button></a>
 </div>
-         
-
-<span style="color:#0e1f6b"><font size="16"><b>Dr. Andrew Rolph</b></font></span>
-<br>
 
 I'm a theoretical physicist. Currently, I am a postdoc at the Universiteit van Amsterdam (University of Amsterdam). <br/>
 
