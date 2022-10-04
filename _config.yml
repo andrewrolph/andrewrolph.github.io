@@ -1,10 +1,10 @@
 theme: jekyll-theme-cayman
 title: Andrew Rolph
 description: Postdoc researcher in holography
-#image: pics/andrew.jpg
-logo_url: pics/andrew.jpg
-#remote_theme: pages-themes/cayman@v0.2.0
 remote_theme: tuur29/pages-themes-cayman
+#image: pics/andrew.jpg
+logo_url: https://github.com/andrewrolph/andrewrolph.github.io/blob/18df892d0d6a20bd859f4d89ae2c79a175590072/pics/andrew.jpg
+#remote_theme: pages-themes/cayman@v0.2.0
 buttons:
       github_hide: true # hides "View on Github"
 plugins:
