@@ -4,5 +4,7 @@ description: Postdoc researcher in holography
 #image: pics/andrew.jpg
 logo_url: pics/andrew.jpg
 remote_theme: pages-themes/cayman@v0.2.0
+buttons:
+      github_hide: true # hides "View on Github"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
