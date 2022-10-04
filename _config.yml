@@ -1,16 +1,16 @@
-title: Custom Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Andrew Rolph
+description: Postdoc researcher in holography
+show_downloads: false
 remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#000"
   gradient_left: "#e53935"
   gradient_right: "#f57c00"
-logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
+logo_url: https://github.com/andrewrolph/andrewrolph.github.io/blob/4a3ef9a00e578ca766614fcfb7a1b9c7b5e12d3d/pics/andrew.jpg
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
-  zip_url: https://github.com/tuur29/pages-themes-cayman
-  zip_title: View Documentation
-  zip_hide: false
+  #zip_url: https://github.com/tuur29/pages-themes-cayman
+  #zip_title: View Documentation
+  zip_hide: true
   tar_hide: true
   github_hide: true
