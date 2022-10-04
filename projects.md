@@ -14,9 +14,6 @@
 
 **Island mirages**: 
 
-<div align='center'>
-   <img src="photos/IMG_1592.jpeg" alt="ChiWIS and Carly" width=300px height=auto><br/>
-</div>
 
 **Entaglement contours**: 
 
