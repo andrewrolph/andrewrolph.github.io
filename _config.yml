@@ -6,7 +6,7 @@ remote_theme: tuur29/pages-themes-cayman
 #  header: "#000"
 #  gradient_left: "#e53935"
 #  gradient_right: "#f57c00"
-logo_url: https://github.com/andrewrolph/andrewrolph.github.io/blob/6cde7c88c383f63a51c98d5d417a0841f4e0dd91/pics/1652114053720.jpg
+#logo_url: https://github.com/andrewrolph/andrewrolph.github.io/blob/6cde7c88c383f63a51c98d5d417a0841f4e0dd91/pics/1652114053720.jpg
 syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
 buttons:
   #zip_url: https://github.com/tuur29/pages-themes-cayman
