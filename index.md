@@ -1,5 +1,5 @@
 <div align='center'>
-   <img src="pics/1652114053720-2.jpg" alt="Andrew" width=200px height=auto><br/>
+   <img src="20200609_182752_cropped.jpg" alt="Andrew" width=300px height=auto><br/>
 </div>
 
 
@@ -15,7 +15,7 @@ I'm a theoretical physicist. Currently, I am a postdoc at the Universiteit van A
 
 Below, watch me give a short presentation at Eurostrings 2022.
 
-[<img alt="Gong Show" width="300px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
+[<img alt="Gong Show" width="500px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
 
 
 <span style="color:#0e1f6b">**Let's talk!**</span>
