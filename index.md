@@ -13,14 +13,10 @@ For a quick introduction to some of my work, watch me give a short presentation 
 
 [<img alt="Gong Show" width="500px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
 
-<div align='center'>
-   <img src="20200609_182752_cropped.jpg" alt="Andrew" width=300px height=auto><br/>
-</div>
-
 <span style="color:#0e1f6b">**Let's talk!**</span>
 <br>
 
-<div align='center'>
+<div align='left'>
    <img src="20200609_182752_cropped.jpg" alt="Andrew" width=250px height=auto><br/>
 </div>
   
