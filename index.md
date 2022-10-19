@@ -20,6 +20,9 @@ For a quick introduction to some of my work, watch me give a short presentation 
 <span style="color:#0e1f6b">**Let's talk!**</span>
 <br>
 
+<div align='center'>
+   <img src="20200609_182752_cropped.jpg" alt="Andrew" width=250px height=auto><br/>
+</div>
   
 Email: _andrew.d.rolph@gmail.com_
 
