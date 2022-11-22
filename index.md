@@ -17,7 +17,7 @@ To see a full-length version of this talk, see the seminar I gave at UBC: <a hre
 
 To see a review of holographic TTbar I gave during my PhD: <a href="Link">https://drive.google.com/file/d/1AkzgGZJnAif6qV533EEWZD5lQGqHYy4L/view?usp=sharing</a>
 
-For a more detailed look at my work, see my published research papers at: <a href="https://inspirehep.net/authors/1593854">https://inspirehep.net/authors/1593854</a>
+For a complete profile of my work, see my published research papers at: <a href="https://inspirehep.net/authors/1593854">https://inspirehep.net/authors/1593854</a>
 
 <span style="color:#0e1f6b">**Let's talk!**</span>
 <br>
