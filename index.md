@@ -13,6 +13,9 @@ For a quick introduction to some of my work, watch me give a short presentation 
 
 [<img alt="Gong Show" width="500px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
 
+To see a full-length version of this talk, see the seminar I gave at UBC: <a href="https://www.youtube.com/watch?v=F_NjZs2D4C4">https://www.youtube.com/watch?v=F_NjZs2D4C4</a>
+
+
 For a more detailed look at my work, see my published research papers at: <a href="https://inspirehep.net/authors/1593854">https://inspirehep.net/authors/1593854</a>
 
 <span style="color:#0e1f6b">**Let's talk!**</span>
