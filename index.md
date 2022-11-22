@@ -15,6 +15,7 @@ For a quick introduction to some of my work, watch me give a short presentation 
 
 To see a full-length version of this talk, see the seminar I gave at UBC: <a href="https://www.youtube.com/watch?v=F_NjZs2D4C4">https://www.youtube.com/watch?v=F_NjZs2D4C4</a>
 
+To see a review of holographic TTbar I gave during my PhD: <a href="Link">https://drive.google.com/file/d/1AkzgGZJnAif6qV533EEWZD5lQGqHYy4L/view?usp=sharing</a>
 
 For a more detailed look at my work, see my published research papers at: <a href="https://inspirehep.net/authors/1593854">https://inspirehep.net/authors/1593854</a>
 
