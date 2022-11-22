@@ -7,7 +7,7 @@
 </div>
 -->
 
-I'm a theoretical physicist. Currently, I am a postdoc at the University of Amsterdam. I work at the interface between quantum information and quantum gravity. <br/>
+I'm a theoretical physicist working on quantum gravity, quantum information, and the interface between. Currently, I am a postdoc at the University of Amsterdam. I  <br/>
 
 For a quick introduction to some of my work, watch me give a short presentation at Eurostrings 2022 on quantum bit threads:
 
