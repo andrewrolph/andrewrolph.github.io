@@ -11,11 +11,15 @@ I'm a theoretical physicist working on quantum gravity, quantum information, and
 
 For a quick, three minute introduction to me and my work, watch a gong show presentation I gave on quantum bit threads at Eurostrings:
 
-[<img alt="Gong Show" width="500px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
+[<img alt="Gong Show" width="400px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
 
 To see a full-length version of this talk, see the seminar I gave at UBC: <a href="https://www.youtube.com/watch?v=F_NjZs2D4C4">https://www.youtube.com/watch?v=F_NjZs2D4C4</a>
 
+[<img alt="UBC" width="300px" src="pics/UBC screenshot.png" />](https://www.youtube.com/watch?v=F_NjZs2D4C4)
+
 To see a review of holographic TTbar I gave during my PhD: <a href="Link">https://drive.google.com/file/d/1AkzgGZJnAif6qV533EEWZD5lQGqHYy4L/view?usp=sharing</a>
+
+[<img alt="TTbar_review_talk_screenshot" width="300px" src="pics/TTbar_review_talk_screenshot.png" />](https://drive.google.com/file/d/1AkzgGZJnAif6qV533EEWZD5lQGqHYy4L/view?usp=sharing)
 
 For a complete profile of my work, see my published research papers at: <a href="https://inspirehep.net/authors/1593854">https://inspirehep.net/authors/1593854</a>
 
