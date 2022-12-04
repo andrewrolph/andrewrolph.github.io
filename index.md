@@ -9,6 +9,10 @@
 
 I'm a theoretical physicist working on quantum gravity, quantum information, and the interface between. Currently, I am a postdoc at the University of Amsterdam.  <br/>
 
+<div align='left'>
+   <img src="20200609_182752_cropped.jpg" alt="Andrew" width=250px height=auto><br/>
+</div>
+
 For a quick, three minute introduction to me and my work, watch a gong show presentation I gave on quantum bit threads at Eurostrings:
 
 [<img alt="Gong Show" width="400px" src="pics/gongshow.png" />](https://www.youtube.com/watch?v=eoCT7cAOGgo&feature=youtu.be)
@@ -25,10 +29,6 @@ For a complete profile of my work, see my published research papers at: <a href=
 
 <span style="color:#0e1f6b">**Let's talk!**</span>
 <br>
-
-<div align='left'>
-   <img src="20200609_182752_cropped.jpg" alt="Andrew" width=250px height=auto><br/>
-</div>
   
 Email: _andrew.d.rolph@gmail.com_
 
